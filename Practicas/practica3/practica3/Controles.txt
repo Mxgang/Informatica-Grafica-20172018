@@ -1,0 +1,24 @@
+CONTROLES IG
+
+- 1: Cilindro
+- 2: Cono
+- 3: Tubo
+- 4: Vaso
+- 5: Vaso inverso
+- 6: Regulador de Watt
+
+- W: Modo puntos
+- E: Modo alambre
+- R: Modo sólido
+- T: Modo ajedrez
+
+- Y: Alternar entre cubo y triángulo
+- A: Figuras PLY (meter nombre de archivo en la terminal)
+
+- G: Girar manualmente sentido horario
+- H: Girar manualmente sentido antihorario
+- V: Poner a girar el Regulador automáticamente
+- B: Aumentar velocidad
+- N: Disminuir Velocidad
+- K: subir la pieza central
+- L: bajar al pieza central
